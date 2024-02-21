@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ISTECodeTask_1/static/css/main.d5852a89.css",
+    "main.js": "/ISTECodeTask_1/static/js/main.0802d50d.js",
+    "static/js/787.ef22139f.chunk.js": "/ISTECodeTask_1/static/js/787.ef22139f.chunk.js",
+    "index.html": "/ISTECodeTask_1/index.html",
+    "main.d5852a89.css.map": "/ISTECodeTask_1/static/css/main.d5852a89.css.map",
+    "main.0802d50d.js.map": "/ISTECodeTask_1/static/js/main.0802d50d.js.map",
+    "787.ef22139f.chunk.js.map": "/ISTECodeTask_1/static/js/787.ef22139f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5852a89.css",
+    "static/js/main.0802d50d.js"
+  ]
+}
